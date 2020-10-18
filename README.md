@@ -52,7 +52,12 @@
             <h3 style="color:darkgray">Bellevue</h3>
                 <a href="https://bellevuewa.gov/">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d86094.90246577501!2d-122.22117123831912!3d47.59763363339335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906bcfa3a66041%3A0xbacf5482ead00765!2sBellevue%2C%20WA!5e0!3m2!1sen!2sus!4v1603057115600!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-                    
+
                 </a>
+            <h3 style="color:darkgray">Leavenworth</h3>
+                <a href="https://leavenworth.org/">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21527.064464226794!2d-120.67799207639028!3d47.58951661773069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549a4d92a4f8f98d%3A0xa14f95fb0abfef7e!2sLeavenworth%2C%20WA%2098826!5e0!3m2!1sen!2sus!4v1603057521126!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                </a>
+            
     </body>
 </html>
