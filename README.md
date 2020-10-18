@@ -37,10 +37,12 @@
             
         <h2>My Favorite Pictures</h2>
         <a href="https://visitoceanside.org/blog/best-spots-to-catch-an-oceanside-sunset/">
-            <img scr="https://images.app.goo.gl/gHSZdNZKyZ89c9Rw6" title="The Sunset" style="width:50px;height:50px">
+            <img scr="https://images.app.goo.gl/gHSZdNZKyZ89c9Rw6" 
+            title="The Sunset" style="width:50px;height:50px">
         </a>
         <a herf="https://amaliahomecollection.com/why-being-near-the-ocean-can-make-you-calmer/">
-            <img scr="https://amaliahomecollection.com/wp-content/uploads/2018/12/blue-ocean-768x434.png" title="The ocean" style="width:50px;height:50px">
+            <img scr="https://amaliahomecollection.com/wp-content/uploads/2018/12/blue-ocean-768x434.png" 
+            title="The ocean" style="width:50px;height:50px">
         </a>
 
     </body>
