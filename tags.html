@@ -5,7 +5,7 @@
     </head>
     <body style="background: beige;">
         <h1> Min Witherspoon</h1>
-        <h2>About Me</h2>
+        <h2 style="color:gray">About Me</h2>
         <p>Hello, I am a sophomore in UW majoring on mathematics.</p>
         <p>I'm from Federal Way, WA and living in Seattle now for school.</p>
         <h2 style="color: gray">My Favorite Websites</h2>
